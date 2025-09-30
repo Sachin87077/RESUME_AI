@@ -29,5 +29,4 @@ This system significantly reduces manual effort, speeds up the hiring process, a
 
 ---
 
-## 🏗️ System Architecture
 
